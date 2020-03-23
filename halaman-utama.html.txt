@@ -10,5 +10,4 @@
 <li><a>Praktikum 8</a></li>
 <li><a>Praktikum 9</a></li>
 <li><a>Praktikum 10</a></li>
-<li><a>Praktikum 3</a></li>
 <ul>
