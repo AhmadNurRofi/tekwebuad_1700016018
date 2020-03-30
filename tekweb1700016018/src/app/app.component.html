@@ -414,6 +414,7 @@
 
   <!-- Terminal -->
   <div class="terminal" [ngSwitch]="selection.value">
+    <a href= "" routerlink="/home">HOME</a>
       <pre *ngSwitchDefault>ng generate component xyz</pre>
       <pre *ngSwitchCase="'material'">ng add @angular/material</pre>
       <pre *ngSwitchCase="'pwa'">ng add @angular/pwa</pre>
